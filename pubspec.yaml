@@ -45,6 +45,7 @@ dependencies:
   table_calendar: ^3.0.9
   intl: ^0.18.0
   speed_dial_fab: ^2.3.0
+  uuid: ^3.0.7
 
 dev_dependencies:
   flutter_test:
